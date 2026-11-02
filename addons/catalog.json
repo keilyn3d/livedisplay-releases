@@ -4,13 +4,13 @@
       "id": "transcripcion",
       "name": "Transcripción",
       "description": "Escucha sin internet y vuelve a leer el mensaje, con citas bíblicas a un clic.",
-      "version": "1.0.0",
-      "minAppVersion": "0.3.0",
+      "version": "1.0.1",
+      "minAppVersion": "0.3.1",
       "tier": "pro",
-      "size": 2495425,
-      "sha256": "b777fa3eb1a1ab2a187240122aa349b35909c1000c54c3ea80ef2d81023a8c05",
-      "signature": "ZflRgFSPEOBoDGz7/O74nStg0RXz6mX8Hcd+M9GFUqkooXdjnWbei8FXkHHhpRtpSA8Xag8TozsGFMVo6En4CA==",
-      "url": "https://github.com/keilyn3d/livedisplay-releases/releases/download/addon-transcripcion-1.0.0/transcripcion-1.0.0.zip"
+      "size": 2496556,
+      "sha256": "9288afead33cde34fc150386434dcb5526c2d25328f5a82b0b090babaaf28c76",
+      "signature": "9NZ7Loby+2F/jQL31v2RtG+pX0O/iTFu4/HsB6WVvuPuXHRBsmXmEcZYtiN/ezPE4XBtoR9Iv+UktXVyWxBbAQ==",
+      "url": "https://github.com/keilyn3d/livedisplay-releases/releases/download/addon-transcripcion-1.0.1/transcripcion-1.0.1.zip"
     }
   ]
 }
